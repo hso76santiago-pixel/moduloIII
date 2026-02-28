@@ -1,1 +1,1 @@
-ejercicio práctico 1
+ejercicio práctica
