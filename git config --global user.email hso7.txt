@@ -1,2 +1,4 @@
 git config --global user.email "hso76santiago@gmail.com"
   git config --global user.name "hso76santiago-pixel"
+
+aquí estoy creando la nueva línea. práctica de branch
